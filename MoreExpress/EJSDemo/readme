@@ -1,0 +1,7 @@
+<%=// added to the page(displaying)%>
+
+<% //when we are using logic-or-loops %>
+
+
+//use this commend for ejs when creating a new folder that doesn't have ejs yet
+npm install --save express body-parser cors ejs
